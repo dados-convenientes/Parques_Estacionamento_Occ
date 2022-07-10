@@ -2,7 +2,7 @@
 
 ## EMEL OPEN DATA
 
-#### Manuel Banza - June, 2022
+#### Dados-In-Convenientes - June, 2022
 
 
 import requests
